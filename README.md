@@ -22,7 +22,8 @@ Strong is an abbreviation of five arrangements of rules that were proposed by **
 ## Single Responsibility Principle
 Single Responsibility Principle (SRP) states that,
     
-    Each class/module has a single responsibility. Software class, function module, etc. should have only one reason to change responsibility.
+    Each class/module has a single responsibility. Software class, function module, etc. 
+    should have only one reason to change responsibility.
 
 This rule expects to isolate practices so that if bugs emerge because of your change, it will not influence other disconnected practices. 
 
@@ -54,14 +55,17 @@ This rule expects to implement consistency so the parent class or its
 ## Interface Segregation Principle
 Interface Segregation Principle (ISP) states that,
 
-    Clients should not force to depend on methods that it does not use. It can likewise be expressed as "Numerous customer explicit interfaces are superior to one universally useful interface"
+    Clients should not force to depend on methods that it does not use. 
+    It can likewise be expressed as "Numerous customer explicit interfaces are superior to one universally useful interface"
 
 This rule targets parting a bunch of activities into more smaller sets with the goal that a class executes **ONLY** the arrangement of activities it requires.
 
 ## Dependency Inversion Principle
 Dependency Inversion Principle (DIP) states that,
 
-    High-level (Working module) modules should not depend on low-level (which module we use as like default library function) modules. Both should depend on Abstraction.
+    High-level (Working module) modules should not depend on low-level 
+    (which module we use as like default library function) modules. 
+    Both should depend on Abstraction.
 
 This guideline targets reducing the reliance of a high-level class on the low-level class by presenting an interface.
     

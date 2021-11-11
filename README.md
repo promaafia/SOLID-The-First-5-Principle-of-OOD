@@ -38,7 +38,8 @@ How does this guideline assist us with building better programming? We should se
 ## Open-Closed Principle
 Open-Closed Principle (OCP) states that,
 
-    Existing entities like classes, functions, and modules, etc. are open for extensions but closed for modification.
+    Existing entities like classes, functions, and modules, etc. 
+    are open for extensions but closed for modification.
        
         1. Open for extension, means the class’s behavior can be extended; and
         2. Closed for modification, means the source code is set and cannot be changed.
@@ -56,7 +57,8 @@ This rule expects to implement consistency so the parent class or its
 Interface Segregation Principle (ISP) states that,
 
     Clients should not force to depend on methods that it does not use. 
-    It can likewise be expressed as "Numerous customer explicit interfaces are superior to one universally useful interface"
+    It can likewise be expressed as 
+    "Numerous customer explicit interfaces are superior to one universally useful interface"
 
 This rule targets parting a bunch of activities into more smaller sets with the goal that a class executes **ONLY** the arrangement of activities it requires.
 

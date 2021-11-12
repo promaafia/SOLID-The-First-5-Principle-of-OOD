@@ -11,11 +11,12 @@ As product engineers, we generally need to manage changes in prerequisites or an
 Strong is an abbreviation of five arrangements of rules that were proposed by **Robert C Martin** otherwise known as **"Uncle Bob"** in the year 2000 to compose high firm, viable, and extensible programming frameworks.
 
 ## What SOLID stands for:
-    S – Single Responsibility Principle (SRP)
-    O – Open-Closed Principle (OCP)
-    L – Liskov Substitution Principle (LSP)
-    I – Interface Segregation Principle (ISP)
-    D – Dependency Inversion Principle (DIP)
+
+- S – Single Responsibility Principle (SRP)
+- O – Open-Closed Principle (OCP)
+- L – Liskov Substitution Principle (LSP)
+- I – Interface Segregation Principle (ISP)
+- D – Dependency Inversion Principle (DIP)
 
 ![Image 1](https://github.com/promaafia/SOLID-The-First-5-Principle-of-OOD/blob/master/Image/1.PNG)
 
